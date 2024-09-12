@@ -13,5 +13,10 @@ public class Main {
             System.out.println();
         }
 
+        boolean variavel = true;
+        if (variavel) {
+            System.out.println("é true");
+        }
+
     }
 }
